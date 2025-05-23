@@ -14,3 +14,7 @@ nuova operazione, la modifica, l'eliminazione e il saldo totale.
 - **Backend**: Python
 - **Frontend**: HTML
 - **Framework**: Flask 
+
+## 🔒 Licenza
+
+Distribuito sotto licenza MIT. Vedi il file `LICENSE` per maggiori dettagli.
